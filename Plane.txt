@@ -1,0 +1,47 @@
+Telegram Finance Bot
+
+User’s information:
+	Balance:
+		1. Card balance;
+		2. Cash balance;
+
+Direct Data:
+	Income:
+		1. Mount of Money;
+		2. Category for income;
+		3. Data and time;
+		4. Card or Cash income;
+
+	Spending:
+		1. Mount of Money;
+		2. Category for spending;
+		3. Data and time;
+		4. Card or Cash spending;
+
+Subscribtions and state income:
+	Subscriptions:
+		1. Mount of Money;
+		2. Data and time;
+
+	Repeated Income:
+		1. Mount of Money;
+		2. Data and time;
+		3. Category;
+
+Setting:
+	1. Language;
+	2. Type of valute (UAN, BG, UAS…);
+	3. Balance on start;
+
+Shows informations:
+	Balance:
+		1. Currently balance;
+		2. Balance for the and of a month;
+
+	Spending:
+		1. List of the all spending;
+		2. Graph for the main spending;
+
+	Income:
+		1. List of the all income;
+		2. Graph for the main income;
